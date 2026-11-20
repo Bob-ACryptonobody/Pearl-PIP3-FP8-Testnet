@@ -41,6 +41,15 @@ The objective is to investigate these questions through independent, repeatable 
 It was found that setting up an independent FP8 test environment requires a number of software components that may be unfamiliar to ordinary GPU miners.
 
 I decided to document the entire process so other interested individuals can establish their own test environments, reproduce the tests, and share findings.
+Writing
+
+
+
+
+
+A secondary objective of this project is to explore how AI can serve as a force multiplier, helping individuals become more effective and efficient when investigating complex technical problems.
+
+AI is being used to assist with research, coding, test development, analysis, and documentation. The intent is not to replace technical expertise or independent verification, but to make those capabilities more accessible and productive.  
 
 **This project is intended to encourage testing, transparency, technical review, and constructive community feedback.**
 
